@@ -24,3 +24,4 @@ Code looks very bad, I know, It's not that I make it for a professional company 
 ![download](https://img.shields.io/github/downloads/fknMega/discord-token-logger/total.svg)
 
 x
+
