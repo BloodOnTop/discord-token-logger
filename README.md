@@ -23,4 +23,4 @@ Code looks very bad, I know, It's not that I make it for a professional company 
 ![photo](https://cdn.discordapp.com/attachments/930947773849812993/945764862628339752/unknown.png)
 ![download](https://img.shields.io/github/downloads/fknMega/discord-token-logger/total.svg)
 
-a
+x
